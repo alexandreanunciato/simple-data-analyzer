@@ -1,6 +1,6 @@
 # Simple Data Analyzer
 
-Este é um projeto simples desenvolvido para praticar **lógica de programação**, **estruturação de código**, **funções** e **organização de dados** em Python.
+Este é um projeto simples desenvolvido para praticar lógica de programação, estruturação de código, funções e organização de dados em Python.
 
 O programa recebe uma lista de números do usuário e gera um pequeno relatório contendo:
 
